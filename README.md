@@ -23,5 +23,10 @@ mail($adres, $tytul, $wiadomosc, $od);
 ?>
 ```
 
+### Zadania
+
+ZAD43001 
+Przygotuj aplikację 
+
 ### Info
 https://kursphp.com/nauka-php-online/
