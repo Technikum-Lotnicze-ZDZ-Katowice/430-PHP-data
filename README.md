@@ -37,6 +37,9 @@ mail($adres, $tytul, $wiadomosc, $od);
 
 ?>
 ```
+
+<!--
+
 ### Zadania
 
 ZAD43001 
@@ -52,7 +55,8 @@ Przygotuj aplikację pobierającą dane osobowe w celu dokonania kalkulacji ubez
      ![Krok-4](Krok-4.png)
 - Kalkulacja wysokości ubezpieczenia odbywa się poprzez pomnożenie stawki 100 000 zł * wiek / 20
 - Stawka ubezpieczenia to iloraz wartości ubezpieczenia i liczby 100
-  
+
+  -->
 
 ### Info
 https://kursphp.com/nauka-php-online/
