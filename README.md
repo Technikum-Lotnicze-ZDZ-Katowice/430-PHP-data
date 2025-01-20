@@ -43,9 +43,10 @@ ZAD43001
 Przygotuj aplikację pobierającą dane osobowe w celu dokonania kalkulacji ubezpieczenia zdrowotnego od użytkownika a na końcu zapisz/dodaj do pliku podsumowanie.
 - Pobieranie danych obywa się w czterech krokach:
   1. dane osobowe (imię i nazwisko, email, wiek);
-  2. adres;
-  3. Wybór typu ubezpieczenia (standard, premium)
-  4. Wyświetlenie podsumowania wraz z zapisem/dodaniem do pliku
+     ![Krok-4](Krok-4.png)
+  3. adres;
+  4. Wybór typu ubezpieczenia (standard, premium)
+  5. Wyświetlenie podsumowania wraz z zapisem/dodaniem do pliku
 - Kalkulacja wysokości ubezpieczenia odbywa się poprzez pomnożenie stawki 100 000 zł * wiek / 20
 - Stawka ubezpieczenia to iloraz wartości ubezpieczenia i liczby 100
   
