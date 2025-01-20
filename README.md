@@ -37,7 +37,6 @@ mail($adres, $tytul, $wiadomosc, $od);
 
 ?>
 ```
-
 ### Zadania
 
 ZAD43001 
@@ -48,6 +47,7 @@ Przygotuj aplikację pobierającą dane osobowe w celu dokonania kalkulacji ubez
   3. Wybór typu ubezpieczenia (standard, premium)
   4. Wyświetlenie podsumowania wraz z zapisem/dodaniem do pliku
 - Kalkulacja wysokości ubezpieczenia odbywa się poprzez pomnożenie stawki 1000 zł * wiek / 20
+- Stawka ubezpieczenia to iloraz wartości ubezpieczenia przez liczbę 100
   
 
 ### Info
