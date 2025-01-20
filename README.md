@@ -1,6 +1,19 @@
 # 430-PHP-data
 
 ```php
+
+
+$startX = 100;
+$startY = 100;
+$koniecX = 200;
+$koniecY = 200;
+
+ImageRectangle($obrazek, $startX, $startY, $koniecX, $koniecY, $czarny);
+ImageFilledRectangle($obrazek, $startX, $startY, $koniecX, $koniecY, $czarny);
+
+```
+
+```php
 <?php
 
 $od  = "From: uzytkownik@kursphp.com \r\n";
