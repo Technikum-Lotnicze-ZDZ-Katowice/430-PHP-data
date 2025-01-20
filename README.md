@@ -46,8 +46,8 @@ Przygotuj aplikację pobierającą dane osobowe w celu dokonania kalkulacji ubez
   2. adres;
   3. Wybór typu ubezpieczenia (standard, premium)
   4. Wyświetlenie podsumowania wraz z zapisem/dodaniem do pliku
-- Kalkulacja wysokości ubezpieczenia odbywa się poprzez pomnożenie stawki 1000 zł * wiek / 20
-- Stawka ubezpieczenia to iloraz wartości ubezpieczenia przez liczbę 100
+- Kalkulacja wysokości ubezpieczenia odbywa się poprzez pomnożenie stawki 100 000 zł * wiek / 20
+- Stawka ubezpieczenia to iloraz wartości ubezpieczenia i liczby 100
   
 
 ### Info
