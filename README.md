@@ -1,5 +1,6 @@
 # 430-PHP-data
 
+### Image
 ```php
 
 
@@ -13,6 +14,7 @@ ImageFilledRectangle($obrazek, $startX, $startY, $koniecX, $koniecY, $czarny);
 
 ```
 
+### Email
 ```php
 <?php
 
