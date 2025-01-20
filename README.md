@@ -41,7 +41,14 @@ mail($adres, $tytul, $wiadomosc, $od);
 ### Zadania
 
 ZAD43001 
-Przygotuj aplikację 
+Przygotuj aplikację pobierającą dane osobowe w celu dokonania kalkulacji ubezpieczenia zdrowotnego od użytkownika a na końcu zapisz/dodaj do pliku podsumowanie.
+- Pobieranie danych obywa się w czterech krokach:
+  1. dane osobowe (imię i nazwisko, email, wiek);
+  2. adres;
+  3. Wybór typu ubezpieczenia (standard, premium)
+  4. Wyświetlenie podsumowania wraz z zapisem/dodaniem do pliku
+- Kalkulacja wysokości ubezpieczenia odbywa się poprzez pomnożenie stawki 1000 zł * wiek / 20
+  
 
 ### Info
 https://kursphp.com/nauka-php-online/
