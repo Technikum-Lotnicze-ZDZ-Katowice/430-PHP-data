@@ -57,6 +57,6 @@ Przygotuj aplikację pobierającą dane osobowe w celu dokonania kalkulacji ubez
 - Podnieś stawkę ubezpieczeniwą dla ubezpieczenia Premium
 - Dodatkowo uwzględnij zniżkę 10% dla mieszkańców Katowic
 
-
+<!--
 ### Info
-https://kursphp.com/nauka-php-online/
+https://kursphp.com/nauka-php-online/ -->
